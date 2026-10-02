@@ -12,11 +12,6 @@
 
 - 💻 Software Engineer working with backend systems and AI-enabled products
 - 🤖 Building at the intersection of **AI/ML, product engineering, and research**
-- 🌱 Founder of innovation projects in career access, safety technology, and AgriTech
-- 🏆 Winner of **Startup Garage Women Demo Day 2025**
-- 🥈 2nd place at the **NIPA Digital Manufacture Hackathon 2025**
-- 📍 Based in Tashkent, Uzbekistan · open to global opportunities
-- 💬 Languages: Uzbek, English, Russian, and Turkish
 
 ## 🧰 Technology stack
 
