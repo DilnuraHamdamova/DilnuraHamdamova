@@ -1,8 +1,3 @@
-## 👋 About me
-
-- 💻 Software Engineer working with backend systems and AI-enabled products
-- 🤖 Building at the intersection of **AI/ML, product engineering, and research**
-
 ## 🧰 Technology stack
 
 <p align="center">
