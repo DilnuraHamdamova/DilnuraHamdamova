@@ -30,17 +30,6 @@
 | [**Tashkent Property Predictor**](https://github.com/DilnuraHamdamova/tashkent-apartment-price-predictor) | Evidence-first apartment price guidance with reproducible ML evaluation | Python · ML · FastAPI |
 | [**Evidence RAG Assistant**](https://github.com/DilnuraHamdamova/evidence-rag-assistant) | Citation-first document assistant with evaluation and observability | RAG · NLP · Docker |
 
-## 📊 GitHub activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DilnuraHamdamova&show_icons=true&hide_border=true&theme=transparent&title_color=ff4fa3&icon_color=4c7dff&text_color=777777" alt="Dilnura's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilnuraHamdamova&layout=compact&hide_border=true&theme=transparent&title_color=ff4fa3&text_color=777777" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DilnuraHamdamova&hide_border=true&ring=ff4fa3&fire=ff4fa3&currStreakLabel=4c7dff" alt="GitHub contribution streak" />
-</p>
-
 ---
 
 <p align="center"><i>Turning bold ideas into useful technology and measurable impact.</i></p>
