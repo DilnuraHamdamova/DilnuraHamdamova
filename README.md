@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DilnuraHamdamova&label=Profile%20views&color=ff4fa3&style=flat-square" alt="Profile views" />
-  <a href="https://dilnura-hamdamova.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-4c7dff?style=flat-square" alt="Portfolio" /></a>
-  <a href="mailto:d.hamdamova@tsue.uz"><img src="https://img.shields.io/badge/Email-Contact-ff4fa3?style=flat-square" alt="Email" /></a>
-</p>
-
 ## 👋 About me
 
 - 💻 Software Engineer working with backend systems and AI-enabled products
