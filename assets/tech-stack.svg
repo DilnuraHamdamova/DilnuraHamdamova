@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="116" viewBox="0 0 1000 116" role="img" aria-label="Animated technology stack: IntelliJ IDEA, Java and Spring Boot">
+  <defs>
+    <linearGradient id="ij" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff2d8d"/>
+      <stop offset=".48" stop-color="#7b61ff"/>
+      <stop offset="1" stop-color="#18a8ff"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-30%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="5" stdDeviation="6" flood-color="#000" flood-opacity=".18"/>
+    </filter>
+    <clipPath id="frame"><rect width="1000" height="116" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <g filter="url(#shadow)">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1000 0" dur="13s" repeatCount="indefinite"/>
+
+      <!-- First repeating set -->
+      <g transform="translate(22 18)">
+        <rect width="286" height="80" rx="22" fill="#161b22" stroke="#ff4fa3" stroke-width="2"/>
+        <rect x="17" y="13" width="54" height="54" rx="12" fill="url(#ij)"/>
+        <rect x="26" y="22" width="36" height="36" rx="4" fill="#080b12"/>
+        <text x="31" y="43" fill="#fff" font-family="Arial,sans-serif" font-size="14" font-weight="800">IJ</text>
+        <path d="M31 51h25" stroke="#fff" stroke-width="3"/>
+        <text x="88" y="37" fill="#fff" font-family="Arial,sans-serif" font-size="20" font-weight="700">IntelliJ IDEA</text>
+        <text x="88" y="58" fill="#aeb7c2" font-family="Arial,sans-serif" font-size="12">Development environment</text>
+      </g>
+
+      <g transform="translate(350 18)">
+        <rect width="286" height="80" rx="22" fill="#161b22" stroke="#4c7dff" stroke-width="2"/>
+        <circle cx="45" cy="40" r="28" fill="#edf5ff"/>
+        <path d="M41 20c13 9-11 12 2 22M49 17c14 10-10 14 2 24" fill="none" stroke="#e76f00" stroke-width="3" stroke-linecap="round"/>
+        <path d="M29 45h29c0 12-7 17-15 17s-14-5-14-17Zm29 3h4c7 0 7 9-2 10" fill="none" stroke="#2874a6" stroke-width="3" stroke-linecap="round"/>
+        <text x="88" y="39" fill="#fff" font-family="Arial,sans-serif" font-size="22" font-weight="700">Java</text>
+        <text x="88" y="59" fill="#aeb7c2" font-family="Arial,sans-serif" font-size="12">Backend engineering</text>
+      </g>
+
+      <g transform="translate(678 18)">
+        <rect width="300" height="80" rx="22" fill="#161b22" stroke="#6db33f" stroke-width="2"/>
+        <circle cx="45" cy="40" r="28" fill="#6db33f"/>
+        <path d="M25 45c18 4 34-3 41-20-2 25-16 39-37 33 11-3 20-9 27-19-9 8-18 11-31 10Z" fill="#fff"/>
+        <text x="88" y="39" fill="#fff" font-family="Arial,sans-serif" font-size="21" font-weight="700">Spring Boot</text>
+        <text x="88" y="59" fill="#aeb7c2" font-family="Arial,sans-serif" font-size="12">Production-ready services</text>
+      </g>
+
+      <!-- Duplicate set for a seamless loop -->
+      <g transform="translate(1022 18)">
+        <rect width="286" height="80" rx="22" fill="#161b22" stroke="#ff4fa3" stroke-width="2"/>
+        <rect x="17" y="13" width="54" height="54" rx="12" fill="url(#ij)"/>
+        <rect x="26" y="22" width="36" height="36" rx="4" fill="#080b12"/>
+        <text x="31" y="43" fill="#fff" font-family="Arial,sans-serif" font-size="14" font-weight="800">IJ</text>
+        <path d="M31 51h25" stroke="#fff" stroke-width="3"/>
+        <text x="88" y="37" fill="#fff" font-family="Arial,sans-serif" font-size="20" font-weight="700">IntelliJ IDEA</text>
+        <text x="88" y="58" fill="#aeb7c2" font-family="Arial,sans-serif" font-size="12">Development environment</text>
+      </g>
+
+      <g transform="translate(1350 18)">
+        <rect width="286" height="80" rx="22" fill="#161b22" stroke="#4c7dff" stroke-width="2"/>
+        <circle cx="45" cy="40" r="28" fill="#edf5ff"/>
+        <path d="M41 20c13 9-11 12 2 22M49 17c14 10-10 14 2 24" fill="none" stroke="#e76f00" stroke-width="3" stroke-linecap="round"/>
+        <path d="M29 45h29c0 12-7 17-15 17s-14-5-14-17Zm29 3h4c7 0 7 9-2 10" fill="none" stroke="#2874a6" stroke-width="3" stroke-linecap="round"/>
+        <text x="88" y="39" fill="#fff" font-family="Arial,sans-serif" font-size="22" font-weight="700">Java</text>
+        <text x="88" y="59" fill="#aeb7c2" font-family="Arial,sans-serif" font-size="12">Backend engineering</text>
+      </g>
+
+      <g transform="translate(1678 18)">
+        <rect width="300" height="80" rx="22" fill="#161b22" stroke="#6db33f" stroke-width="2"/>
+        <circle cx="45" cy="40" r="28" fill="#6db33f"/>
+        <path d="M25 45c18 4 34-3 41-20-2 25-16 39-37 33 11-3 20-9 27-19-9 8-18 11-31 10Z" fill="#fff"/>
+        <text x="88" y="39" fill="#fff" font-family="Arial,sans-serif" font-size="21" font-weight="700">Spring Boot</text>
+        <text x="88" y="59" fill="#aeb7c2" font-family="Arial,sans-serif" font-size="12">Production-ready services</text>
+      </g>
+    </g>
+  </g>
+</svg>

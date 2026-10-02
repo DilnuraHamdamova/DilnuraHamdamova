@@ -15,8 +15,8 @@
 
 ## 🧰 Technology stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,postgres,docker,git,github,githubactions,idea,postman" alt="Technology stack" />
+<p align="center">
+  <img src="./assets/tech-stack.svg" alt="Animated IntelliJ IDEA, Java and Spring Boot technology stack" width="100%" />
 </p>
 
 `Java` · `Spring Boot` · `Python` · `FastAPI` · `PostgreSQL` · `REST APIs` · `AI/ML` · `Docker` · `Git` · `CI/CD` · `R` · `Econometrics`
@@ -39,14 +39,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DilnuraHamdamova&hide_border=true&ring=ff4fa3&fire=ff4fa3&currStreakLabel=4c7dff" alt="GitHub contribution streak" />
-</p>
-
-## 🤝 Connect with me
-
-<p>
-  <a href="https://github.com/DilnuraHamdamova"><img src="https://img.shields.io/badge/GitHub-DilnuraHamdamova-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/dilnura-hamdamova-1b56943b3"><img src="https://img.shields.io/badge/LinkedIn-Dilnura%20Hamdamova-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://t.me/HamdamovaD"><img src="https://img.shields.io/badge/Telegram-@HamdamovaD-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram" /></a>
 </p>
 
 ---
