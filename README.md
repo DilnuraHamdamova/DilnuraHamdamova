@@ -4,7 +4,7 @@
   <img src="./assets/tech-stack.svg" alt="Animated IntelliJ IDEA, Java and Spring Boot technology stack" width="100%" />
 </p>
 
-`Java` · `Spring Boot` · `Python` · `FastAPI` · `PostgreSQL` · `REST APIs` · `AI/ML` · `Docker` · `Git` · `CI/CD` · `R` · `Econometrics`
+`Java` · `Spring Boot` · `Python` · `FastAPI` · `PostgreSQL` · `REST APIs` · `AI/ML` · `Docker` · `Git` · `CI/CD`
 
 ## 🚀 Featured projects
 
